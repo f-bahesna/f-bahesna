@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Frada</h1>
 
-> Backend Software Engineer with 4 years of experience, including 2 years as a Full-Stack Developer
+> Backend Software Engineer with 5 years of experience, including 3 years as a Full-Stack Developer
 
 Currently living and working as software engineer, full stack web developer, tech consultant, remote worker, and a lifetime learner.
 
