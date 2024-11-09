@@ -4,7 +4,7 @@
 
 Currently living and working as software engineer, full stack web developer, tech consultant, remote worker, and a lifetime learner.
 
-- 🔭 I’m interested in  =>  **Blockchain Smart Contract Development  |  Fullstack Web Development  |  Mobile Development.**
+- 🔭 I’m interested in development =>  **Blockchain Smart Contract   |  Fullstack Web   |  Mobile .**
 
 - 🌱 I’m currently learning  =>  **Flutter  |  Solidity  |  Dev Ops Development.**
 
