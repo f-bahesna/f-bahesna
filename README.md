@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Frada</h1>
 
-> Software Engineer (Backend) with 5 years of experience, including 2 years as a Full-Stack Developer
-
-Currently living and working as software engineer, full stack web developer, tech consultant, remote worker, and a lifetime learner.
+Currently working as fullstack developer and lifetime learner.
 
 - 🔭 I’m interested in development =>  **Blockchain Smart Contract   |  Fullstack Web   |  Mobile .**
 
