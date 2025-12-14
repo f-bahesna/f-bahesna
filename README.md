@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Frada</h1>
 
-Fullstack Web Developer with five years of experience focusing on backend engineering.
+Fullstack Web Developer with 5+ years of experience focusing on backend engineering.
 
 - 🔭 I’m interested in development =>  **Fullstack Web using Laravel, Go, React.js/Vue.js  |  Blockchain Smart Contract.**
 
-- 🌱 I’m currently learning  =>  **Advanced Laravel | Blockchain | Frontend Development .**
+- 🌱 I’m currently learning  =>  **Laravel Expert | Blockchain.**
 
 <h3 align="left">Skills:</h3>
 <p align="left"> 
