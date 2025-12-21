@@ -4,7 +4,7 @@ Fullstack Web Developer with 5+ years of experience focusing on backend engineer
 
 - 🔭 I’m interested in development =>  **Fullstack Web using Laravel, Go, React.js/Vue.js  |  Blockchain Smart Contract.**
 
-- 🌱 I’m currently learning  =>  **Laravel Expert | Blockchain.**
+- 🌱 I’m currently learning  =>  **To be Senior Fullstack Developer | Blockchain.**
 
 <h3 align="left">Skills:</h3>
 <p align="left"> 
@@ -56,3 +56,8 @@ Fullstack Web Developer with 5+ years of experience focusing on backend engineer
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
 </a>
 </p>
+<br/>
+
+Medium : https://medium.com/@fradabahesna <br/>
+Linkedin: https://linkedin.com/in/fradabahesna <br/>
+
