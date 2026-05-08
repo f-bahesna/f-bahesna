@@ -4,7 +4,7 @@ Fullstack Web Developer with 6+ years of experience focusing on backend engineer
 
 - 🔭 **I’m interested in development =>**  Fullstack Web using Laravel, Go, React.js/Vue.js  |  Blockchain Smart Contract.
 
-- 🌱 **Currently deep diving into  =>** <br/> | System Design | <br/>| Distributed systems (event-driven architecture, message queues, idempotency) | <br/>| Blockchain fundamentals (Solidity, smart contract security, DeFi mechanics) |
+- 🌱 **Currently deep diving into  =>** <br/> | System Design | Clean Architecture <br/>| Distributed systems (event-driven architecture, message queues, idempotency) | <br/>| Blockchain fundamentals (Solidity, smart contract security, DeFi mechanics) |
 
 <h3 align="left">My Game</h3>
 
