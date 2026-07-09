@@ -2,8 +2,8 @@
 
 ### Software Engineer
 
-**Go · Laravel · PostgreSQL** · familiar with **React, TypeScript and Docker**
-**REST APIs · Domain-Driven Design · AWS**
+**Go · Laravel · PostgreSQL** · familiar with **React, Vue, TypeScript and Docker**
+**REST APIs · Domain-Driven Design · AWS · Concurrencies **
 
 Building business applications with a focus on backend architecture, clean APIs and scalable systems. Interested in software design, system performance and developer experience.
 
