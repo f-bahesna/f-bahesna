@@ -1,8 +1,15 @@
-<h1 align="left">Hi , I am Frada</h1>
+<h1 align="left">LIANUM FRADA BAHESNA</h1>
 
-Fullstack Web Developer with 6+ years of experience focusing on backend engineering.
+### Software Engineer
 
-- 🔭 **I’m interested in development =>**  Fullstack Web using Laravel, Go, React.js/Vue.js  |  Blockchain Smart Contract.
+**Go · Laravel · PostgreSQL** · familiar with **React, TypeScript and Docker**
+**REST APIs · Domain-Driven Design · AWS**
 
-- 🌱 **Currently deep diving into  =>** <br/> | System Design | Clean Architecture <br/>| Distributed systems (event-driven architecture, message queues, idempotency) | <br/>| Blockchain fundamentals (Solidity, smart contract security, DeFi mechanics) |
+Building business applications with a focus on backend architecture, clean APIs and scalable systems. Interested in software design, system performance and developer experience.
 
+**Experience**
+
+* 5+ years of professional experience in the fintech industry. (P2P Lending, Paylater etc)
+* Designed and developed REST APIs, database architectures and domain-driven applications.
+* Built procurement, supply chain and internal business systems with a focus on maintainability, scalability and performance.
+* Experienced in deploying and maintaining applications using Docker, AWS and modern development workflows.
